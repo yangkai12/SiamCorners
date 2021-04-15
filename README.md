@@ -1,5 +1,5 @@
 # SiamCorners
-SiamCorners: Siamese Corner Networks for VisualTracking
+This is an official implemention for “SiamCorners: Siamese Corner Networks for VisualTracking”
 
 
 ### Citation
