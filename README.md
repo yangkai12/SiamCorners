@@ -6,7 +6,7 @@ SiamCorners: Siamese Corner Networks for VisualTracking
 If you're using this code in a publication, please cite our paper.
 
 	@InProceedings{SiamCorners,
-	author = {Kai Yang, Zhenyu He, IEEE,Wenjie Pei, Zikun Zhou, Xin Li, Di Yuan and Haijun Zhang},
+	author = {Kai Yang, Zhenyu He, Wenjie Pei, Zikun Zhou, Xin Li, Di Yuan and Haijun Zhang},
 	title = {SiamAtt: Siamese attention network for visual tracking},
 	booktitle = {IEEE Transactions on Multimedia},
 	month = {April},
