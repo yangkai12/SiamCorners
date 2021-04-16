@@ -1,5 +1,5 @@
 # SiamCorners
-This is an official implemention for “[SiamCorners](https://arxiv.org/pdf/2104.07303.pdf): Siamese Corner Networks for VisualTracking”. The code will be made public, be patient. 
+This is an official implemention for “[SiamCorners: Siamese Corner Networks for VisualTracking](https://arxiv.org/pdf/2104.07303.pdf)”. The code will be made public, be patient. 
 
 
 ![image](https://user-images.githubusercontent.com/25238475/115003176-15eb7400-9e95-11eb-9a51-275235429679.png)
@@ -41,7 +41,7 @@ If you're using this code in a publication, please cite our paper.
 	}
 
 ## Acknowledgment
-Our transformer-assisted tracker is based on [PySot](https://github.com/STVIR/pysot) and [CornerNet](https://github.com/princeton-vl/CornerNet-Lite). We sincerely thank the authors Bo Li and Hei Law for providing these great works.
+Our anchor-free tracker is based on [PySot](https://github.com/STVIR/pysot) and [CornerNet](https://github.com/princeton-vl/CornerNet-Lite). We sincerely thank the authors Bo Li and Hei Law for providing these great works.
 
 ## Contact
 If you have any questions, please feel free to contact yangkaik88@163.com
