@@ -35,6 +35,19 @@ Compile the NMS code which are originally from [Faster R-CNN](https://github.com
 cd <SiamCorners dir>/core/external
 make
 ```
+#### Training:
+```bash
+CUDA_VISIBLE_DEVICES=0,1
+python -m torch.distributed.launch \
+    --nproc_per_node=2 \
+    --master_port=2333 \
+    ../../tools/train.py --cfg config.yaml
+```
+
+#### Testing:
+```
+python ../tools/test.py 
+```
 
 ### Citation
 If you're using this code in a publication, please cite our paper.
