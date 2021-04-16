@@ -39,3 +39,9 @@ If you're using this code in a publication, please cite our paper.
 	month = {April},
 	year = {2021}
 	}
+
+## Acknowledgment
+Our transformer-assisted tracker is based on [PySot](https://github.com/STVIR/pysot) and [CornerNet](https://github.com/princeton-vl/CornerNet-Lite). We sincerely thank the authors Bo Li and Hei Law for providing these great work.
+
+## Contact
+If you have any questions, please feel free to contact yangkaik88@163.com
