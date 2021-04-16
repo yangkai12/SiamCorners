@@ -1,9 +1,9 @@
 # SiamCorners
-This is an official implemention for “SiamCorners: Siamese Corner Networks for VisualTracking”. The code will be made public, be patient. Th
+This is an official implemention for “[SiamCorners](https://arxiv.org/pdf/2104.07303.pdf): Siamese Corner Networks for VisualTracking”. The code will be made public, be patient. Th
 
 ![image](https://user-images.githubusercontent.com/25238475/115003176-15eb7400-9e95-11eb-9a51-275235429679.png)
 The overview of our SiamCorners architecture, which includes the Siamese feature extractor followed by the top-left corner and bottom-right corner
-branches in parallel.
+branches in parallel. 
 
 ### Citation
 If you're using this code in a publication, please cite our paper.
