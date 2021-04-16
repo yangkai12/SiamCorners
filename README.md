@@ -17,7 +17,7 @@ branches in parallel.
 ## Prepare training dataset
 Prepare training dataset, detailed preparations are listed in [training_dataset](training_dataset) directory.
 * [VID](http://image-net.org/challenges/LSVRC/2017/)
-* [YOUTUBEBB](https://research.google.com/youtube-bb/) ([BaiduYun](https://pan.baidu.com/s/1nXe6cKMHwk_zhEyIm2Ozpg))
+* [YOUTUBEBB](https://research.google.com/youtube-bb/) ([BaiduYun](https://pan.baidu.com/s/1nXe6cKMHwk_zhEyIm2Ozpg), extract code: h964.)
 * [DET](http://image-net.org/challenges/LSVRC/2017/)
 * [COCO](http://cocodataset.org)
 * [LaSOT](https://cis.temple.edu/lasot/)
