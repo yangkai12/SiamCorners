@@ -6,6 +6,29 @@ This is an official implemention for “[SiamCorners](https://arxiv.org/pdf/2104
 The overview of our SiamCorners architecture, which includes the Siamese feature extractor followed by the top-left corner and bottom-right corner
 branches in parallel. 
 
+## Dependencies
+* Python 3.7
+* PyTorch 1.0.0
+* numpy
+* CUDA 10
+* skimage
+* matplotlib
+* GCC 4.9.2 or above
+
+### Compiling Corner Pooling Layers
+Compile the C++ implementation of the corner pooling layers. (GCC4.9.2 or above is required.)
+```
+cd <SiamCorners dir>/core/models/py_utils/_cpools/
+python setup.py install --user
+```
+
+### Compiling NMS
+Compile the NMS code which are originally from [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn/blob/master/lib/nms/cpu_nms.pyx) and [Soft-NMS](https://github.com/bharatsingh430/soft-nms/blob/master/lib/nms/cpu_nms.pyx).
+```
+cd <SiamCorners dir>/core/external
+make
+```
+
 ### Citation
 If you're using this code in a publication, please cite our paper.
 
