@@ -32,7 +32,7 @@ python setup.py install --user
 ### Compiling NMS
 Compile the NMS code which are originally from [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn/blob/master/lib/nms/cpu_nms.pyx) and [Soft-NMS](https://github.com/bharatsingh430/soft-nms/blob/master/lib/nms/cpu_nms.pyx).
 ```
-cd <SiamCorners dir>/pysot/tracker
+cd <SiamCorners dir>/pysot/tracker/external
 make
 ```
 #### Training:
