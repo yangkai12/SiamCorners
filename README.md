@@ -25,7 +25,7 @@ Prepare training dataset, detailed preparations are listed in [training_dataset]
 ### Compiling Corner Pooling Layers
 Compile the C++ implementation of the corner pooling layers. (GCC4.9.2 or above is required.)
 ```
-cd <SiamCorners dir>/core/models/py_utils/_cpools/
+cd <SiamCorners dir>/pysot/models/corners/py_utils/_cpools
 python setup.py install --user
 ```
 
