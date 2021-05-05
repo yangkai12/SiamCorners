@@ -1,5 +1,5 @@
 # SiamCorners
-This is an official implemention for “[SiamCorners: Siamese Corner Networks for VisualTracking](https://arxiv.org/pdf/2104.07303.pdf)”. The code will be made public, be patient. 
+This is an official implemention for “[SiamCorners: Siamese Corner Networks for VisualTracking](https://arxiv.org/pdf/2104.07303.pdf)”. The code are available here now. 
 
 
 ![image](https://user-images.githubusercontent.com/25238475/115003176-15eb7400-9e95-11eb-9a51-275235429679.png)
